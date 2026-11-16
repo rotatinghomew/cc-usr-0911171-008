@@ -1,0 +1,51 @@
+{
+  "context": {
+    "window": 4,
+    "season_index": "1.1",
+    "capacity": "100"
+  },
+  "items": [
+    {
+      "id": "station-1",
+      "owner_id": "station-1",
+      "history": [
+        20,
+        22,
+        24,
+        26,
+        28,
+        30
+      ],
+      "demand": 1,
+      "amount": "0",
+      "effective_from": "2026-11-16",
+      "request_key": "acceptance-1",
+      "observations": [
+        {
+          "date": "2026-11-01",
+          "value": 20
+        },
+        {
+          "date": "2026-11-02",
+          "value": 22
+        },
+        {
+          "date": "2026-11-03",
+          "value": 24
+        },
+        {
+          "date": "2026-11-04",
+          "value": 26
+        },
+        {
+          "date": "2026-11-05",
+          "value": 28
+        },
+        {
+          "date": "2026-11-06",
+          "value": 30
+        }
+      ]
+    }
+  ]
+}
